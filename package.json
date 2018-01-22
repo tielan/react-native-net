@@ -1,0 +1,23 @@
+{
+  "name": "react-native-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tielan/react-native-network.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tielan/react-native-network/issues"
+  },
+  "homepage": "https://github.com/tielan/react-native-network#readme",
+  "devDependencies": {
+    "react": "^16.2.0",
+    "react-native": "^0.52.0"
+  }
+}
