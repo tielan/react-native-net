@@ -1,8 +1,8 @@
-# react-native-network
-react-native-network
+# react-native-net
+react-native-net
 
 
 ## user install
 
-> npm install react-native-network --save
+> npm install react-native-net --save
 
